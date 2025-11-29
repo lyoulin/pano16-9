@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.9/20995
 // Filename: map_popup.ggsk
-// Generated 2025-11-29T12:22:35
+// Generated 2025-11-29T13:45:52
 
 function pano2vrSkin(player,base) {
 	player.addVariable('image_popup', 2, false, { ignoreInState: 0  });
